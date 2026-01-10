@@ -37,7 +37,7 @@ A production-ready authentication app with clean architecture and real-world aut
 **Key Features**
 - Email & password login/signup
 - Firebase Authentication
-- Auth-state–driven navigation (no manual routing hacks)
+- Auth-state-driven navigation (no manual routing hacks)
 - Riverpod state management
 - Global error handling
 - Clean, responsive UI
@@ -56,7 +56,7 @@ A production-ready authentication app with clean architecture and real-world aut
 
 ## 📫 Connect With Me
 - 📧 Email: pateldhruv6422@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/dhruv-patel-a2397a234
+- 💼 LinkedIn: linkedin.com/in/dhruv-patel69
 - 🧑‍💻 GitHub: https://github.com/star07D
 
 ---
